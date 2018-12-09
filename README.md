@@ -1,5 +1,5 @@
 TicTacToe Revisited with Interfaces
-By Sepid Ebrahimi
+by Sepid Ebrahimi
 
 
 OVERVIEW
